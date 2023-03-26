@@ -1,4 +1,4 @@
-# Dapp to use in zhThon-2023
+# Dapp to use in zkThon-2023
 
 Demo Dapp to use in challenge 3 of [zkThon-2023](https://github.com/dappsar/zkThon-2023/blob/main/challenge-3.md)
 Created with hardhat.
